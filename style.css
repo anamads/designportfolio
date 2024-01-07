@@ -2,12 +2,13 @@
 
 }
 
-html,
+
 body {
-  margin: 0 auto;
+  margin: 0;
 }
 
 html {
+  margin: 0 auto;
   font-family: "Poppins";
   font-size: 18px;
 }

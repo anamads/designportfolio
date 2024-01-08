@@ -1117,6 +1117,9 @@ div.image {
   .hhe {
     padding-top: 5rem;
   }
+  .top {
+    padding-top: 5rem;
+  }
   .certificates {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;

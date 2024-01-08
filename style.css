@@ -1444,6 +1444,11 @@ div.image {
   .copyright {
     text-align: center;
   }
+
+  .talkbox {
+    padding: 0;
+  }
+  
 }
 
 @media only screen and (max-width: 380px) {

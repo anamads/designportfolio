@@ -275,7 +275,7 @@ nav a {
 
 .square1 {
   display: flex;
-  background-image: url("./maxim1.jpg");
+  background-image: url("images/maxim1.jpg");
   background-size: cover;
   width: 100%;
 
@@ -285,7 +285,7 @@ nav a {
 }
 .square2 {
   display: flex;
-  background-image: url("./maxim2.jpg");
+  background-image: url("images/maxim2.jpg");
   background-size: cover;
   width: 100%;
   border-radius: 20px;
@@ -294,7 +294,7 @@ nav a {
 }
 .square3 {
   display: flex;
-  background-image: url("./maxim4.jpg");
+  background-image: url("images/maxim4.jpg");
   background-size: cover;
   width: 100%;
   border-radius: 20px;
@@ -303,7 +303,7 @@ nav a {
 }
 .square4 {
   display: flex;
-  background-image: url("./maxim3.jpg");
+  background-image: url("images/maxim3.jpg");
   background-size: cover;
   width: 100%;
   border-radius: 20px;

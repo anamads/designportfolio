@@ -1058,6 +1058,33 @@ div.image {
   }
 }
 
+
+@media only screen and (max-width: 1250px) and (min-width: 896px){
+  .square1 img {
+    display: none;
+  }
+  .square2 img {
+    display: none;
+  }
+  .square3 img {
+    display: none;
+  }
+  .square4 img {
+    display: none;
+  }
+  .words {
+    padding:0;
+  }
+  button.CTA {
+    width: 100%;
+    padding: 5px 10px;
+  }
+  .container h3{
+    font-size: 1.1rem;
+    line-height: 1.3;
+  }
+}
+
 @media only screen and (max-width: 895px) {
   .main {
     background-position: 70%;

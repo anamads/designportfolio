@@ -30,7 +30,7 @@ figcaption {
   opacity: 60%;
 }
 
-img {
+img:not(.followicons img)  {
   pointer-events: none;
 }
 

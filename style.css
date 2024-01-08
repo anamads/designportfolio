@@ -1448,6 +1448,14 @@ div.image {
   .talkbox {
     padding: 0;
   }
+
+
+    form input,
+form textarea {
+  margin: 5px 0 10px;
+  padding: 10px;
+  outline: none;
+}
   
 }
 

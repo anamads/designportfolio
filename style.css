@@ -359,6 +359,7 @@ button.CTA:hover {
 }
 
 .learn {
+  font-family: "Material Symbols Outlined";
   display: none;
 }
 

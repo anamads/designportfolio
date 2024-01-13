@@ -368,10 +368,10 @@ button.CTA:hover {
   display: none;
 }
 
-button.CTA:hover .learn {
+/* button.CTA:hover .learn {
   display: inline-block;
   padding-right: 5px;
-}
+}*/
 
 /* Portfolio Section */
 .portfolio {

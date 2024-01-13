@@ -1512,6 +1512,14 @@ form textarea {
   .learn {
     font-size: 0.8rem;
   }
+
+  .container {
+  display: grid;
+  width: 100%;
+  overflow: hidden;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
   h3 {
     font-size: 0.9rem;
     margin-bottom: 0.5rem;
